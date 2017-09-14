@@ -1,0 +1,37 @@
+Title: Protocol
+
+----
+
+Subtitle: : Chapter 1
+
+----
+
+Author-first: Alexander
+
+----
+
+Author-last: Galloway
+
+----
+
+Year: 2006
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: 
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: galloway-protocol.jpg)
+
+----
+
+Selected-image: 

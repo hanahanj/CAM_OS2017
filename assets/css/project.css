@@ -1,0 +1,47 @@
+#meta-bar .inside {
+	background: none;
+}
+
+#meta-bar hr {
+	border: 0;
+	border-top: 1px solid #000;
+	opacity: 0.1;
+}
+
+nav { display: none !important; }
+
+h1 { font-size: 28px; line-height: 32px; font-weight: bold; margin-top: 2em; }
+
+ul li {
+	list-style-type: circle !important;
+}
+
+ol li {
+	list-style-type: decimal;
+}
+
+.container.project .document {
+  width: 100%;
+  max-width: 100%;
+  overflow: auto;
+}
+
+.item {
+  width: 320px;
+  clear: left;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.item img {
+  display: block;
+  width: 100%;
+  height: auto;  
+  margin: 10px 0px;
+  padding: 0px;
+
+  mix-blend-mode: multiply;
+  -webkit-filter: grayscale(100%) contrast(200%);
+  filter: grayscale(100%) contrast(200%);
+  opacity: 1;	
+}

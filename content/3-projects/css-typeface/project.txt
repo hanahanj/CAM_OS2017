@@ -1,0 +1,84 @@
+Title: CSS Typeface
+
+----
+
+Project-code: P2
+
+----
+
+Color: #76cf47
+
+----
+
+Text: 
+
+## Instructions
+
+1. Create a typeface using only HTML and CSS. It should have a complete character set and at minimum 2 visual 'states'.
+
+2. Once you've designed and built your typeface, create a website to display your complete typeface. 
+
+
+## Goals
+
+Through this project, you will experiment formally in HTML and CSS through creation of your very own typeface. That said, your typeface should somehow take advantage of its unique material. How is a typeface online (on a screen) different than one in a book (on a printed page)? How do the media differ? What are the dynamic properties of the web that printed matter lacks? And vice-versa: is there anything that printed matter has that the web doesn't? The concept for your typeface should come across formally and also allude to the way it was created (programming HTML and CSS).
+
+Your typeface should exist in at least two visual 'states'. These states can take advantage of the HTML/CSS hover state, continuously run like a screensaver, or be triggered in other ways as you like (scrolling, resizing your window, a media query, etc.). What does this additional form say about the digital format? Is it a means to be expressive? To hide and reveal new information? Are there multiple layers to your typeface that represent different types of information? Connect these visual forms to the concept of your typeface.
+
+When it is time to create the website to display your typeface, consider its subject. How can your website's focus not only reinforce but push forward the concept of your typeface? How will your typeface be used? What material can you present in your typeface to take it to a new level? Can the website surprise viewers in some way to further explore the concept even more?
+
+
+## Examples of innovative typography specific for screen
+* (link: https://www.google.com/search?q=wim+crouwel+grid&espv=2&biw=1498&bih=1065&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiQ5Yn8lcLPAhUKE5QKHcckCOoQ_AUIBigB&dpr=0.9#imgrc=XBOAhBJRtBF71M%3A text: Wim Crouwel's grids popup: yes)
+* (link: http://diagonalpress.com/collections text: Tauba Auerbach's Type Specimens popup: yes)
+* (link: https://www.google.com/search?q=jurriaan+schrofer&espv=2&biw=1498&bih=1065&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjmq67SlsLPAhWBOpQKHQG_CWwQ_AUIBigB&dpr=0.9 text: Jurriaan Schrofer popup: yes)
+* (link: https://youtu.be/A8NbzFGdFII?t=1m58s text: College Chums popup: yes) by Edwin S. Porter, 1907
+* (link: https://www.youtube.com/watch?v=xWRRAw6xzos text: Rhythmetic popup: yes) by Norman McLaren and Evelyn Lambart, 1956
+* (link: https://www.youtube.com/watch?v=tPxgi-PiNFE text: Enter the Void Trailer popup: yes) by Gasper Noe, 2011
+* (link: https://www.youtube.com/watch?v=Ud4NN8pE74A text: Watch Wyoscan popup: yes) by Dexter Sinister, 2012
+* (link: http://nowismorethanever.com/ text: Now Is More Than Ever popup: yes) by Damon Zucconi
+* (link: https://vimeo.com/65248695 text: Letter & Spirit popup: yes) by Dexter Sinister, 2012
+* (link: https://vimeo.com/60651938 text: Computed Type popup: yes) by Christoph Knoth, 2013 — (link: https://twitter.com/ComputedType text: more popup: yes)
+* (link: http://weiyi.li/now/ text: Now popup: yes) by Weiyi Li, 2011
+* (link: https://vimeo.com/36132600 text: Unicode popup: yes) by Jörg Piringer, 2012
+* (link: http://whitney.org/NewIdentity text: Whitney's Responsive W popup: yes) by Experimental Jetset, 2013 — (link: http://www.experimentaljetset.nl/archive/whitney-museum-identity text: more)
+* (link: https://www.youtube.com/watch?v=n4MDsCmGkto text: bOOg popup: yes) by (link: http://www.delaware.gr.jp/ text: Freeware/Delaware), 2012
+* (link: http://tylermadsen.com/ popup: yes)
+* (link: http://www.typatone.com/ text: Typatone popup: yes) by Jono Brandel, 2015
+* (link: http://http://www.radimpesko.com/fonts/sol text: Radim Pesko popup: yes)'s Sol
+* (link: http://www.bloomberg.com/businessweek/design-conference/ text: Bloomberg Businessweek Design Conference popup: yes)
+* (link: http://www.yhchang.com/ text: Young-Hae Chang Heavy Industries popup: yes)
+* (link: https://studiomoniker.com/projects/place-a-stone text: Place a Stone popup: yes) by Studio Moniker
+* (link: http://letterror.com/dev/mathshapes/ text: Math Shapes popup: yes) by LettError
+* (link: http://typemedia.org/tm1516/responsive/index.html text: Responsive Lettering  popup: yes) by Type and Media Program, 2015
+* (link: http://barronwebster.com/ text: Barron Webster popup: yes)'s holding page
+
+
+##Schedule
+
+1. First Sketch — *Due Thursday, February 9*
+Create three unique directions for your typeface. Begin by sketching the fundamental letters we discovered in small group. Conceptually and formally, each direction should be uniquely different from each other. While sketching, consider how each typeface would exist as code and in the browser space. (Do this in InDesign or Illustrator, and come to class on Thursday with a PDF.)
+
+2. Second Sketch — *Due Tuesday, February 14*
+Based on feedback of your three sketches, select one direction for your complete typeface. Complete your typeface drawing (in Illustrator, etc.) as much as possible. Here are the characters I would like you to have:
+* abcdefghijklmnopqrstuvwxyz / ABCDEFGHIJKLMNOPQRSTUVWXYZ
+* (choose either lower or upper case)
+* 0123456789 (numbers)
+* .?!,”“ (punctuation)
+
+3. Website design — *Due Thursday, February 16*
+Please create two unique proposals (using InDesign or another sketching tool) for the website your typeface will live on. How can your website's focus not only reinforce but push forward the concept of your typeface? Remember to upload the sketches to your class website.
+* Revisit the examples on this page (above)
+* Ask yourself: What makes a typeface specific to the screen or the web?
+* Think about your typeface in two states. (How does your typeface "breathe"?)
+* Think about what your typeface would do if it were a screen saver.
+
+3. Mid-Project Eval — *Tuesday, February 28*
+Present a working website containing typeface.
+
+4. Final — *Thursday, March 9*
+Present a final website containing typeface.
+
+## Credit
+
+Adapted from (link: http://www.brianwatterson.com/ text: Brian Watterson)'s project.

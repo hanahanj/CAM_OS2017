@@ -1,0 +1,37 @@
+Title: Squeaky Dolphin
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: 
+
+----
+
+Author-last: GCHQ
+
+----
+
+Year: 
+
+----
+
+Further-authors: Investigation by NBC News
+
+----
+
+Download-sentence: Link to powerpoint: (link: http://msnbcmedia.msn.com/i/msnbc/Sections/NEWS/snowden_youtube_nbc_document.pdf popup: yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: squeakydolphin.png)
+
+----
+
+Selected-image: 

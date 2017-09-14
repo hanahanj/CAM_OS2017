@@ -1,0 +1,21 @@
+Title: Info
+
+----
+
+Text: 
+
+## About This Site
+
+This website is the syllabus and portal for the interaction design course taught by (link: http://mindyseu.com/ text: Mindy Seu popup: yes). It archives related materials as a resource for past and future students or web visitors, whether the class is in session or not. 
+
+
+## Classes
+
+—  Spring 2017, Interactive 2 (GRAPH-228-02), California College of the Arts, San Francisco
+— (link: http://fall2016.designforthe.net/ text: Fall 2016, Interactive 2 popup: yes) (GRAPH-228-02), California College of the Arts, San Francisco
+— (link: http://spring2016.designforthe.net/ text: Spring 2016, Interactive 2 popup: yes) (GRAPH-228-02), California College of the Arts, San Francisco
+
+
+## Credit
+
+This syllabus and site were based off those from (link: http://laurelschwulst.com/ text: Laurel Schwulst popup: yes)'s (link: http://veryinteractive.net/ text: veryinteractive.net popup: yes). Thank you, Laurel, for generously providing this foundation.

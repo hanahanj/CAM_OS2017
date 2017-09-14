@@ -1,0 +1,66 @@
+Title: Hoax
+
+----
+
+Project-code: P3
+
+----
+
+Color: #24e2ff
+
+----
+
+Text: 
+
+"The viewer should experience a dilemma: is it serious or not? Real or not? For critical design to be successful, viewers need to make up their own mind." — Fiona Raby and Anthony Dunne from (link: https://mitpress.mit.edu/books/speculative-everything text: Speculative Everything popup: yes)
+
+## Instructions and goals
+
+You will create a fully-formed website that pretends to be something that it is not. While "hoax" can often be a one-liner trick or joke, the goal of your hoax website is instead to construct a universe — perhaps one you'd like to inhabit. Consider making a website for a hypothetical school, event, institution, club, invention, startup, etc. The pairing of content to the site should reveal a thought experiment in the form of exaggeration, criticism, hyperreality, or speculative design. While I invite you to have fun, please be mature about the intentions of your hoax and aware of the impact your hoax may have on others.
+
+While this project is meant to utilize your imagination, it will also allow you to hone your practical skills. Your hoax website will need to look "believable" to work, so making a website that behaves as others do today in 2016 will be important. Therefore, *your website must be responsive (viewable at all breakpoints: 320, 480, 600, 768, 1024 px).*
+
+## Listening and reading
+
+To get yourself in the mindset of this project, I would like you to:
+
+1. Listen to this podcast "(link: http://99percentinvisible.org/episode/show-of-force/ text: Show of Force popup: yes)" about the “deception unit” that employed artists during World War II. 
+
+2. Read "(link: http://spring2016.veryinteractive.net/library/placebo-project text: The Placebo Project popup: yes)" which is an excerpt from the book *Design Noir: The Secret Life of Electronic Objects* by Fiona Raby and Anthony Dunne.
+
+## References
+* (link: https://en.wikipedia.org/wiki/Depressive_realism text: Depressive Realism popup: yes)
+* (link: ​http://rationalwiki.org/wiki/List_of_Poe's_Law_examples text: Poe's Law popup: yes)
+* (link: https://en.wikipedia.org/wiki/Hyperreality text: Hyperreality popup: yes)
+* (link: http://www.walkerart.org/channel/2015/superscript-2015-claire-evans text: Claire Evans's talk at Walker Art Center popup: yes)
+* (link: http://art-bin.com/art/omodest.html text: A Modest Proposal popup: yes)
+* (link: http://www.flagofplanetearth.com/ text: Flag of Planet Earth popup: yes)
+* (link: https://smell.dating/ text: Smell Dating popup: yes) by Tega Brain
+* (link: http://socialturkers.com/ text: Social Turkers popup: yes) by Lauren McCarthy
+* (link: https://www.youtube.com/watch?v=Yvs7f4UaKLo text: The Last Job on Earth popup: yes)
+* (link: http://rhizome.org/editorial/2011/feb/18/something-fishy-pelican-state-beach/ text: Public Access popup: yes popup: yes) by David Horvitz, 2010–2011
+* Amazon Dash (link: http://www.amazon.com/Tide-Pods-Powder-Dash-Button/dp/B00WJ12MQ8 text: one popup: yes) and (link: https://fresh.amazon.com/dash/ text: two popup: yes)
+* (link: http://art.yale.edu/ text: Yale Art website popup: yes)
+* (link: http://www.dailymail.co.uk/femail/article-3511376/Designer-creates-shocking-THIGH-GAP-jewellery-s-not-seems.html text: Thigh Gap Jewelry popup: yes)
+* (link: http://features.peta.org/PETASeaKittens/about.asp text: Peta's Sea Kittens popup: yes)
+
+
+## Schedule
+
+(underline: Writing response and wireframe) — *due Tuesday, April 5*
+
+After absorbing both pieces of media (above), write a paragraph response or ask three questions. Think about the connections between the two and your personal opinion on both. Please paste your response in Week 12 Google Doc before 6pm on Tuesday.
+
+Additionally, create two concepts for the hoax website. You will produce a wireframe/sketch of each concept, beginning with the home page. 
+
+(underline: Mid-Project Review) — *due Tuesday, April 26*
+
+Your site should be online and basically functioning as intended. This will allow us to troubleshoot design and code issues in class and give you the final week to fine tune the elements of the site.
+
+(underline: Final) — *due Thursday, May 5*
+
+Final review of site.
+
+## Credit
+
+Adapted from (link: http://veryinteractive.net/ text: Laurel Schwulst)'s project.

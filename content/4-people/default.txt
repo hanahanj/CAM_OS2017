@@ -1,0 +1,20 @@
+Title: People
+
+----
+
+Text: 
+
+
+(link: # text: Altamirano, Angelo Q. popup: yes)
+(link: # text: Buenafe, Mark Andrew R. popup: yes)
+(link: # text: Choung, Kermen I. popup: yes)
+(link: # text: Ehringer, Logan G. popup: yes)
+(link: # text: Gunda, Shruti L. popup: yes)
+(link: # text: Jongsma, Katelynn N. popup: yes)
+(link: # text: Kan, Denise popup: yes)
+(link: # text: Kao, Rebecca Y. popup: yes)
+(link: # text: Kinoshita, Alexandra M. popup: yes)
+(link: # text: Kleinman, Matthew W. popup: yes)
+(link: # text: Qin, Guoqiang popup: yes)
+(link: # text: Zhang, Yazhen popup: yes)
+(link: # text: Zhong, Yi popup: yes)

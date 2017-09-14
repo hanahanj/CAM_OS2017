@@ -1,0 +1,20 @@
+Title: Home
+
+----
+
+Text: 
+<p>
+From September 5 to December 15, 2017, this (link: syllabus text: course) focused on interaction design in the form of conceptual online (link: projects text: projects) for (link: people text: 13 students).
+</p>
+<p>
+California College of the Arts<br />
+Fall 2017
+</p>
+<p>
+Interactive 2, GRAPH-228-03<br />
+SF Main Campus, Room E2<br />
+MW 12:00–3:00pm
+</p>
+<p>
+Instructor: <a href=http://hanahan.works>Jonathan Hanahan</a>, (link: mailto:hanahan@cca.edu text: hanahan@cca.edu)
+</p>

@@ -1,0 +1,23 @@
+Title: Archive
+
+----
+
+Text: 
+
+## Archive<br>Due Monday, May 1
+
+Please follow the instructions below:
+1. Download this (link: syllabus/archive/fall2017-archive_firstnamelastname.zip text: starter kit).
+2. Divide your materials into four folders: P1, P2, P3, and Presentation. 
+3. Within each project (P1, P2, P3) folder, make three new folders: Project, Documentation, Description. 
+4. Put all of your project materials (code and required assets) into the Project folder. 
+5. In the Documentation folder, place a video screen capture (made using Quicktime) to concisely document your project.
+6. In the Description folder, place a text file containing a paragraph description of your project. 
+7. In the Presentation folder, place a PDF version of your presentation into the folder. 
+8. When you make the .zip file, send it to chamamoto@cca.edu over (link: http://wetransfer.com text:wetransfer.com). 
+
+Remember:
+— When creating the archive, make sure your assets are optimized for web so that the file sizes are as small as possible
+— Make sure every link on your class homepage is working.
+
+*If you do not send me your class archive by Monday, Dec 18, you will fail the class.*

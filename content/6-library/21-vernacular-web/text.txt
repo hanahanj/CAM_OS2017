@@ -1,0 +1,37 @@
+Title: Vernacular Web
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Olia
+
+----
+
+Author-last: Lialina
+
+----
+
+Year: 2005
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Links to articles: (link: http://art.teleportacia.org/observation/vernacular/ text: A Vernacular Web popup:yes) (2005), (link: http://contemporary-home-computing.org/vernacular-web-2/ text: Vernacular Web 2 popup:yes) (2007), (link: http://contemporary-home-computing.org/prof-dr-style/ text: Vernacular Web 3 popup:yes) (2010)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: vernacularweb.png)
+
+----
+
+Selected-image: 

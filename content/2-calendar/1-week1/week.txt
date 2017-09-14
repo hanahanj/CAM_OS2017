@@ -1,0 +1,46 @@
+Dates: Weds Sep 6
+
+----
+
+Text: 
+
+##WEDNESDAY
+
+Intros and class overview
+*	Discuss syllabus and define class expectations
+
+
+Break and:
+*	Sign up for weekly presentations
+* 	Download Sublime Text and Github if you have not already.
+
+Deploy P1
+*	What are all the things a 'click' can do?
+* 	HTML/CSS/JQuery (link: https://docs.google.com/document/d/1IpfGPVWUDhejru51IksN-ewtcy_NK2pVnc_jHUZHAwk/edit text:Demo) for 50 result charrette
+
+FOR NEXT WEEK
+*	Follow steps in Exercise: Github
+*	Read (link: https://www.wired.com/2016/08/science-waiting-waiting-page-load/?mbid=social_twitte text: The Science of Waiting ... and Waiting ... for Your Page to Load by Bryan Gardiner popup:yes) and (link: https://linedandunlined.com/archive/i-am-a-handle text: I am a Handle by Rob Giampietro popup:yes)
+*	50 result charrette
+*	Develop and upload to your class site a single page website which documents 50 possible returns for your chosen action.
+
+
+## Reminder
+* *Student*, please prepare your presentation on *topic*
+
+----
+
+Title: Week 1
+
+----
+
+Project-start: P1
+
+----
+
+Project-end: 
+
+----
+
+Current: 1
+

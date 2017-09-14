@@ -1,0 +1,68 @@
+Title: Exhibition Microsite
+
+----
+
+Project-code: P3
+
+----
+
+Color: #24e2ff
+
+----
+
+Text: 
+
+## Instructions
+
+1. Using (link: https://www.sfmoma.org/search/?q=&type=exhibition popup: yes text: SF MOMA's Archives) as a source for content, select a past exhibition. 
+2. Create a microsite showcasing the work in that exhibition. 
+
+## Goals
+
+Determine the tone and focus of your selection. How can you make a website that highlights the information (location, date, time, descriptions, metadata, etc) about this exhibition while showcasing the content in an engaging way? How can you explore different ways of showing the tone? Should it be legible? Formal? Ambient? Obtuse?
+
+Consider the ideal viewing conditions for your site. Are you literally representing the in-person experience online as in the case of (link: http://rumors-studio.com/projects/error text: 404 Error: The Object is Not Online popup: yes)? Are you meant to view your exhibition within the space on your phone like (link: http://www.walkerart.org/garden/ text: Minneapolis Sculpture Garden popup: yes)? Consider augmenting your website with a physical display.
+
+## Examples of innovative exhibition microsites
+
+* (link: http://www.moma.org/interactives/exhibitions/2012/cindysherman/ text: Cindy Sherman, MoMA popup: yes) by (link: http://futurecorp.london/ text: Marc Kremers popup: yes)
+* (link: http://www.moma.org/interactives/exhibitions/2011/talktome/ text: Talk to Me, MoMA popup: yes) by (link: http://stamen.com/ text: Stamen Design popup: yes)
+* (link: http://www.moma.org/interactives/exhibitions/2013/magritte/#/featured/1 text: Magritte, MoMA popup: yes) by (link: http://hellomonday.com/ text: Hello Monday popup: yes)
+* (link: http://www.nytimes.com/interactive/2015/02/06/arts/a-walk-through-the-gallery-henri-matisse-the-cut-outs-at-the-museum-of-modern-art-in-new-york.html?smid=tw-nytimes text: Matisse Cut-Outs, MoMA popup: yes) by New York Times Interactive
+* (link: https://exhibitions.mcachicago.org/kjm/index.html text: Kerry James Marshall: Mastry, MCA popup: yes)
+* (link: http://labels.redbullmusicacademy.com/ text: Endless 80s, Red Bull Music Academy) by (link: http://folderstudio.com/ text: Folder Studio popup: yes)
+* (link: http://rumors-studio.com/projects/error text: 404 Error: The Object is Not Online, Canadian Centre for Architecture) by (link: http://rumors-studio.com/ text: Rumors popup: yes)
+* (link: http://czechandslovakpavilion.cz/ text: Apotheosis, The National Gallery in Prague popup: yes) by (link: http://www.zakgroup.co.uk/ text: Zak Group popup: yes)
+* (link: http://the-mac-photo-archive.net/ text: Mac Photographic Archive popup: yes) by (link: http://lizziemalcolm.com/ text: Lizzie Malcolm popup: yes)
+* (link: http://o-o-o-o.co.uk/ text: Haroon Mirza's /o/o/o/o/ popup: yes) by (link: http://apracticeforeverydaylife.com/ text: A Practice for Everyday Life popup: yes)
+* (link: http://exhibitions.guggenheim.org/zero/#/artwork text: Zero, Guggenheim popup: yes)
+* (link: http://exhibitions.guggenheim.org/storylines/ text: Storyline, Guggenheim popup: yes)
+* (link: http://czechandslovakpavilion.cz/ text: popup: yes)
+* (link: http://www.frgr.de/portfolio/adapters/ text: Adapter Museum popup: yes)
+* (link: http://hetnieuweinstituut.nl/en text: Het Nieuwe Instituut popup: yes) by (link: https://studiomoniker.com/projects/het-nieuwe-instituut text: Moniker popup: yes)
+* (link: http://temporarystedelijk.com/ text: Temporary Stedelijk popup: yes)
+* (link: http://readwax.com/ text: Wax Magazine popup: yes)
+* (link: http://heartofglass.ch/ text: Heart of Glass by Luke Archer popup: yes)
+* (link: http://rhizome.org/ text: Rhizome popup: yes)
+* (link: http://tumbvr.herokuapp.com/ text: TumbVR popup: yes), a gallery plug-in
+* (link: http://to.be/fields text: to.be/fields popup: yes), a collage tool
+
+
+## Schedule
+
+1. Wireframes — *Due Tuesday, March 28*
+Research SF MOMA's past exhibitions and select two separate exhibitions. For each exhibition, develop one website concept. Produce a wireframe/sketch of each direction, beginning with the home page and one detail page.
+
+2. Visual Design — *Due Thursday, March 30*
+For the selected concept, present a visual design sketch of at least three pages. Pretend these are screenshots of your website. If I click through your design sketches, will I understand how this website exists online?
+
+3. Website Build Review — *Due Tuesday, April 4*
+Your initial site should be online. We will spend the next week focusing on coding the larger framework of your site. The design sketch phase is quick in order create the visual language of the site. Be prepared to modify the design and experiment in code.
+
+4. Mid-Project Eval — *Due Tuesday, April 11*
+Your site should be functioning as intended. The next week should be spent fine-tuning details and content. 
+
+5. Final — *Due Thursday, April 27*
+Present a final exhibition microsite.
+
+(caption: break)

@@ -1,0 +1,46 @@
+Title: A Dialogue of Forms
+
+----
+
+Subtitle: : Letters and Digital Font Design
+
+----
+
+Author-first: Debra
+
+----
+
+Author-last: Adams
+
+----
+
+Year: 1986
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to thesis: (link: debraadams-dialogueforms-mit.pdf popup: yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+(image: squreroundoblique.png)
+(image: url.jpg)
+
+*Pictured:*
+An object-oriented model for the hierarchical composition of letterforms in computer-aided typeface design.
+
+*Excerpt from Introduction:*
+A Dialogue of Forms is an investigation of the process and practice of creating typeface designs. The aim of this investigation is to examine techniques of automating the generation of letterforms. It is hypothesized that letters can be automatically derived from a subset of forms called the control characters. The control characters contain the primary structural elements, design attributes, and proportional relationships that characterize a typeface. Typically they are the first letters created by the designer "since their design would suggest how the remaining letters and characters should be drawn."
+
+----
+
+Selected-image: 

@@ -1,0 +1,81 @@
+Title: Mouse Events
+
+----
+
+Color: #f2f2f2
+Hover-Color: #ff0000
+
+----
+
+Text: 
+
+#Instructions:
+1) Develop a microsite which uses this—and only this—action to create a multi-sensory experience for users. 
+
+#Description:
+The above action largely dominate the how we interact with content on the web. It is a subconscious and ubiquitous means to an end. Because of this, their use has become overlooked, we know what to expect when we click/hover on something. But these expectations do not define the potential that these simple activities posses. For this project you will explore it not as typical ways to get to content, but as the content itself. You will dive deep and analyse each experiential consequence before, during, and after an action and push them towards profound results. 
+
+Use this prompt to push your chosen action to do something it would not typically do and you may not know how to do. Do not concern yourself with ‘best practices’ or how things ‘should’ work, but experiment with alternatives and stumble upon anomalies. A good project in this sense is not code-heavy and complex but nimble in how it connects simple scripts to create rich and engaging results.  
+
+#Objectives:
+
++Increase your familiarity, comfort, and knowledge of foundational actions.
+
++Introduce or expand knowledge using jquery to create dynamic experiences.
+
++String together a complex, compelling, and engaging experience from a simple act.
+
++Challenge and analyse the status-quo of how actions are typically implemented and how they might alternatively be used.
+
++Break down sensory barriers to create multi-sensory and spatial experiences.
+
++Explore activating unexpected elements on the screen. 
+
+#Readings:
+
+(link: https://www.wired.com/2016/08/science-waiting-waiting-page-load/?mbid=social_twitte text: The Science of Waiting popup: yes)
+(link: https://linedandunlined.com/archive/i-am-a-handle text: Rob Giampietro, I am A Handle popup: yes)
+Neil Stephenson, MotherEarth Motherboard
+Olia Lialina, A Vernacular Web 
+Alice Rawsthorn, The pros and cons of new digital interface design
+
+
+#Schedule:
+
+Week 1  
+Intros
+Begin 100 click Charrette
+
+Week 2
+Critique 100 click Charrette
+Begin Microsite Proposals
+
+Week 3
+Microsite Development
+
+Week 4
+Critique Microsite
+
+References:
+Charrette:
+https://lusoren.github.io/100_Buttons/Done/copy.html
+https://emagidson.github.io/buttons100/100buttons.html
+https://noahbaker.github.io/firstproject/interaction_hanahan/
+https://k-tsao-designs.github.io/onClick100Events/buttons.html
+
+Click:
+https://lusoren.github.io/KnowYou/
+https://itylermcmanus.github.io/click/ClickEvents/index.html
+https://noahbaker.github.io/clickeventbuildtwo/index.html
+
+Scrolling:
+https://noahbaker.github.io/motionscrollthree/new6.html
+https://lusoren.github.io/Garden/
+
+Resizing (this was a project instead of swipe last year)
+https://noahbaker.github.io/resizefinal/index.html
+https://octopusgump.github.io/_changeWidth/index.html
+
+----
+
+Project-code: P1

@@ -1,0 +1,86 @@
+Title: 8 Reasons to Turn Down that Startup Job
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: Mike
+
+----
+
+Author-last: Monteiro
+
+----
+
+Year: 2015
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link to article: (link: https://deardesignstudent.com/8-reasons-to-turn-down-that-startup-job-1f82a00ade34#.ifrnsd6r4 popup: yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+(image: 8reasons.gif)
+
+*Q: I graduated from school this year and I’ve been looking for my first job. After interviewing around, I finally got a job offer at a small startup. How do I decide if it’s the right offer to take?*
+
+This one is easy. Don’t take it. You’re just starting your career, and a startup is the absolute worst place for you right now. Let me break it down:
+
+##1. You don’t know how to be a designer yet.
+I hate to be the one to tell you this, but I promised I would never lie to you. You have absolutely no idea how to be a designer yet. You might have been the greatest design student at your school, and you still have no idea how to be a designer. At best, you’ve picked up a very strong set of formal and aesthetic skills which will serve as a foundation to become a designer. But you’ve never dealt with a client or a boss, you’ve never had to sell an idea. You’ve never dealt with having to convince your engineering team of why something was important, you’ve never learned to say no to a bad request, you’ve never had to gather requirements, and you’ve most likely never interviewed a user. Your mileage may vary, depending on where you went to school, of course.
+
+This isn’t me being a jerk, either. At this stage, there’s no way you would know these things. But you want to put yourself in a position where you can learn them. And a startup, where you’ll most likely have to do all of these things, probably isn’t going to have anyone who can teach you.
+
+##2. No one at that startup is going to teach you how to be a better designer.
+You will most likely be on a very small team of designers, all of them with the same experience as you. Maybe one will have been there six months longer, which means he’s making more money. And in a world where you have to watch your burn rate, he’s getting laid off first. So he’s not teaching you anything.
+
+You may be looking at Silicon Valley’s new favorite game: Let’s hire 200 designers and see who sticks. Which is not unlike when the sea monkey company would send you a thousand sea monkeys, knowing that 900 would die within the first week.
+
+Or, You may be the only designer on staff. Which means you’re either getting tacked to the marketing team or the dev team. Both of which will see you as a weird “other type” who they’ll use to meet their needs. You’ll be making buttons and display ads.
+
+##3. You need a mentor.
+I think I’ve told you guys about my mom before. She’s a seamstress. When she was a teen, her mother (my grandmother) took her to the best seamstress in town. She convinced the seamstress to take her on as an apprentice. Over the years, she taught my mother the trade. She taught her the technical stuff, but she also taught her how to bill, how to properly charge for her work, how to get new clients. In essence, she taught her how to earn a living. And when the day came, the seamstress gave her a few choice clients from her rolodex and told her she was ready to set up shop for herself. This is the kind of relationship you should be looking for.
+Humble yourself enough to be an apprentice. Find a mentor. The good ones are hard to find and aren’t usually found at startups.
+
+##4. You need to be going wider than deep right now.
+The only problem you will learn to solve at a startup is that startup’s problem. And it may well indeed be a worthy problem to solve. But right now you need to be learning how to solve a wide variety of problems for a wide variety of people. You need to be trying different things. Dealing with different types of clients.
+
+And that mentor we talked about? They’ll be an invaluable resource in teaching you how to deal with all of those different people. And reminding you that lessons you learned on a project a year ago are applicable to the current project in a way you hadn’t thought of.
+I run a design studio, and on any typical day we have about a half dozen different projects running through the job. It’s never boring. We learn a little bit about this and a little bit about that. We get to find out about industries we knew nothing about. And we get to design a variety of things. Every once in a while one of our designers enjoys a project so much that she decides she wants to go focus in that area. Which is great. She’s put in her time and made her choice. And she can go off and focus in that area knowing that she has a strong general foundation.
+
+##5. You are not going to get rich.
+Most startups fail. That’s just the nature of the business. And as I’m sure someone will point out in a comment, most businesses fail. In fact, if we stretch it out far enough, all businesses fail. But startups fail fast. Which means they have to move faster than they might fail. So you’re taking on more risk. And they’ll ask you to share that risk with them. Sometimes that means offering you equity, in lieu of a good salary, but more often than not these days, they’ll offer you equity and a large salary.
+
+Do the math. You will be asked to work incredibly long hours. You will most likely need to be available to answer your email at any time of day, and you’ll probably be expected to work weekends when asked. More insidiously, you’ll be made to feel like you’re not a “team player” if you don’t dedicate yourself heart and soul to the well-being of someone else’s company. And god forbid you have a family. So do the math. Take that annual salary and break it down by the actual hours you’ll spend working. (Ask a few of the other employees how much time they spend working to get an average.)
+
+And that equity? Yes, you could be one of the very few who cashes in. And I hope you are. Just know that the percentage of those that do are very very small. And you’re betting your career on it. If we’re in Vegas, I don’t take those odds.
+
+##6. Unless you thrive in chaos you will not be comfortable.
+New companies are making it up as they go. This is not a criticism. This is a fact. And there’s a certain level of excitement in that. But you’re already busy enough trying to figure out what it means to work as a designer. You’ve got enough chaos to deal with inside your own little 4' radius. Once your own skillset is robust, then go ahead and put yourself in exciting chaotic environments. But right now you’d just be another person running around in a burning house.
+You know that whole thing about making sure your own oxygen mask is secure before you try to help anyone else? That’s what this is about. Before you go putting yourself in a chaotic situation, make sure you’re the one who can keep their shit together. That means someone who has seen a lot, and knows what to do when something goes crazy. That’s not you yet.
+
+##7. The world needs fixing, not disrupting.
+I hate to tell you this, but right now the startup world, or at least the ones making the majority of the noise, have their heads up their own ass and don’t realize it stinks. They’re solving problems for the top 5% of the population. How can I get poor people to do my chores? How can I get people to drive me around without having to pay them health insurance? How can a drone deliver my toilet paper within 15 minutes while the person who fulfilled my order sits at her desk crying because she’s working a 15-hour day and can’t take time off to get that lump in her chest looked at. This is known as the service economy. Where entitled white boys figure out how to replicate their private school dorm experience for life.
+
+The service economy is nothing new. And there’s nothing disruptive about the rich getting richer.
+
+Don’t play that game. As a newly-minted designer, I want you to consider using your skills for the betterment of society. Go find some real problems to solve. We have enough of them. Check out Code for America, or 18F, or US Digital Services. Our craft is a service that should be used to make people’s life easier. And especially those who need us most.
+
+##8. Don’t be somebody’s monkey.
+Whatever you choose to do, whether you decide to take this startup job or not, I wish you luck. I commend you on entering the workforce. And I hope you take this article, and everything else you read, with a little grain of salt. Trust in your own abilities. Be confident enough stand by your ideas, and to admit when you are wrong. Look out for your own needs. Learn to say no more than you say yes. Treat people the way you wish they would treat you. And help those that come after you, like those you came before you are now helping you.
+
+----
+
+Selected-image: 

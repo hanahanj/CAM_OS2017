@@ -1,0 +1,37 @@
+Title: Placebo Project
+
+----
+
+Subtitle: 
+
+----
+
+Author-first: 
+
+----
+
+Author-last: Dunne and Raby
+
+----
+
+Year: 2000
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: 
+
+----
+
+Further-metadata: 
+
+----
+
+Text: (image: dunneplacebo.png)
+
+----
+
+Selected-image: 

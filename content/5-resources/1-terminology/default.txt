@@ -1,0 +1,85 @@
+Title: Terminology
+
+----
+
+Text: 
+
+## Backend
+The backend of a web site refers to the HTML markup, code, files and server processes that make the web site work. The backend is what the web designer builds, the frontend is what the web site visitor sees.
+
+## Bread crumb
+A breadcrumb or breadcrumb trail is the part of the navigation that shows you where you are, similar to the fairy tale “Hansel and Gretel”. Breadcrumb trails are often found near the top of Web pages and define both the current location within the site hierarchy as well as primary pages above the current page.
+
+## Below the fold
+This term is a carry-over from newspaper publishing days. In newspaper terms, “below the fold” means content was on the bottom half of the page (below the physical fold in the paper). In web design terms, “below the fold” refers to the content that is generally going to be below the point first viewable to the average website visitor in their browser (in other words, viewers would have to scroll down to see the content).
+
+## Cache/chaching
+Cached files are those that are saved or copied (downloaded) by a web browser so that the next time that user visits the site, the page loads faster.
+
+## Cascading Style Sheets
+Also referred to simply as CSS, Cascading Style Sheets are used to define the look and feel of a web site outside of the actual HTML file(s) of the site. In recent years, CSS has replaced tables and other HTML-based methods for formatting and laying out websites. The benefits to using CSS are many, but some of the most important are the simplification of a site’s HTML files (which can actually increase search engine rankings) and the ability to completely change the style of a site by changing just one file, without having to make changes to content.
+
+## CMS
+Acronym for content management system.
+
+## Dropdowns
+Toggleable, contextual menu for displaying lists of links.
+
+## Eye tracking
+A method for testing the effectiveness of a web page. An eye tracking device monitors the movement of the pupil to determine where on the page the subject looks first. It tracks the movement of the eye as the subject scans the page. This information is then used by the web designer to improve the page layout.
+
+## Favicon
+A favicon or Favorites Icon is a small graphic that is associated with a page or Web site. The favicon allows the Web developer to customize the site in the Web browser, both in the tab bar that is displayed in many browsers as well as in the bookmarks when a site is saved. It was named the favicon because it was first developed in Internet Explorer, which calls bookmarked sites “favorites” and this icon was displayed in the favorites menu.
+
+## Fixed Width Layout
+A fixed width layout has a set width (generally defined in pixels) set by the designer. The width stays the same regardless of screen resolution, monitor size, or browser window size. It allows for minute adjustments to be made to a design that will stay consistent across browsers. Designers have more control over exactly how a site will appear across platforms with this type of layout.
+
+## Focal Point
+The focal point of a web site is the spot on a web page that they eye is naturally drawn to. This could be an image, a banner, text, Flash content, or just about anything else. You want to make sure that whatever is acting as your focal point is the most important part of your site.
+
+## Frontend
+The part of the web site that the end user sees.
+
+## Graphical user interface
+In computing, a graphical user interface (GUI, sometimes pronounced “gooey” or “gee-you-eye”) is a type of interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, as opposed to text-based interfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep learning curve of command-line interfaces (CLIs), which require commands to be typed on the keyboard.
+
+## Hero Image
+The principle image used on a page or article. Usually very large, above all text.
+
+## Hit
+Contrary to popular belief, a hit does not represent a single visitor to a website. A hit is actually a request for a single file from your web server. This means one page can actually generate multiple hits, as each page generally has more than one file (an html or other base file, a css file, multiple images, etc.) and each one is requested from the server whenever the page is loaded. Some marketing people like to quote hits to unknowing consumers as the number makes their site sound like it’s getting a whole lot more traffic than it actually is.
+
+## Hyperlink
+A hyperlink is a link from one web page to another, either on the same site or another one. Generally these are text or images, and are highlighted in some way (text is often underlined or put in a different color or font weight). The inclusion of hyperlinks are the “hyper” part of “hypertext.”
+
+## Landing page
+A landing page is the page where a visitor first enters a website. Often, a special landing page is created to incite a specific action from a new visitor.
+
+## Liquid Layout
+A liquid layout is one that is based on percentages of the browser window’s size. The layout of the site will change with the width of the browser, even if the visitor changes their browser size while viewing the page. Liquid layouts take full advantage of a person’s browser width, optimizing the amount of content you can fit onscreen at one time.
+
+## Meta data
+Meta data is the data contained in the header that offers information about the web page that a visitor is currently on. The information contained in the meta data isn’t viewable on the web page (except in the source code). Meta data is contained within meta tags.
+
+## Nesting
+Placing one element inside another. When two tags are opened, they must be closed in the reverse order.
+
+## Permalink
+Short for “permanent link.” Generally used only on blogs, a permalink is a link that is the permanent web address of a given blog post. Since most blogs have constantly-changing content, the permalink offers a way for readers to bookmark or link to specific posts even after those posts have moved off the home page or primary category page.
+
+## Tracking
+The space between letters in a block of text. In CSS this is defined with the letter-spacing property. Tracking is a form of micro whitespace that allows you to control the legibility of text on Web pages.
+
+## Traffic
+A very broad term that refers to the amount of activity and/or the number of users on a web site.
+
+## Twitterbot
+A Twitterbot is a program used to produce automated posts on the Twitter microblogging service, or to automatically follow Twitter users. Twitterbots come in various forms. For example, many serve as spam, enticing clicks on promotional links. Others post @replies or automatically “retweet” in response to tweets that include a certain word or phrase. These automatic tweets are often seen as fun or silly. Some Twitter users even program Twitterbots to assist themselves with scheduling or reminders.
+
+## Usability
+Usability refers to how easy it is for a visitor to your site to use your site in its intended manner. In other words, are navigation, content, images, and any interactive elements easy to use, functioning the way they were intended, and that your intended target visitor will not need any special training in order to use your site.
+
+## Wireframe
+A wireframe is a visual representation of a website. It allows designers and developers to present proposed functions, graphic elements, structure, and content of a website with simple line drawings.
+
+(comment: http://digital-strategies.ma-ad.ch/terminology/)

@@ -1,0 +1,193 @@
+Title: A Man of Letters
+
+----
+
+Subtitle: : Why was the morning paper suddenly in a foreign language?
+
+----
+
+Author-first: Oliver
+
+----
+
+Author-last: Sacks
+
+----
+
+Year: 2010
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: link to article: (link: http://www.newyorker.com/magazine/2010/06/28/a-man-of-letters-2 popup: yes)
+
+----
+
+Further-metadata: from *The New Yorker*
+
+----
+
+Text: 
+
+(image: a-man_OliverSacks.jpg)
+
+In January of 2002, I received a strange letter from Howard Engel, the Canadian writer who created the Benny Cooperman series of detective novels. One morning a few months before, he had got up feeling fine. He dressed and made breakfast and then went to the front porch to get his newspaper. But the paper on his doorstep seemed to have undergone a transformation. As he subsequently described it:
+
+*The July 31, 2001, Globe & Mail looked the way it always did in its make-up, pictures, assorted headlines and smaller captions. The only difference was that I could no longer read what they said. The letters, I could tell, were the familiar twenty-six I had grown up with. Only now, when I brought them into focus, they looked like Cyrillic one moment and Korean the next. Was this a Serbo-Croatian version of the Globe, made for export? . . . Was I the victim of a practical joke? . . . Panic should have hit me like the proverbial ton of bricks. But instead I was suffused with a reasonable, business-as-usual calm. “Since this isn’t somebody’s idea of a joke, then, it follows, I have suffered a stroke.”*
+
+Along with this realization came a memory of an account he had read a few years earlier, my own “Case of the Colorblind Painter.” He remembered in particular how my patient, Mr. I., following a head injury, found himself unable to read the police accident report—he saw print of different sizes and types but could make nothing of it, and said that it looked like “Greek or Hebrew.” He remembered, too, that Mr. I.’s inability to read—his alexia—had lasted for five days and then cleared.
+
+Howard kept testing himself, turning over the pages, to see if everything would suddenly snap back to normal. Then he went into his library; maybe, he thought, “books would behave better than the newspaper.” The room looked normal, and he noted that he could still read his clock, but his books—some in French and German, as well as in English—were all unintelligible, all full of the same “Oriental”-looking script.
+
+He woke his son, Jacob, and together they took a cab to the hospital. Along the way, Howard thought he saw “familiar landmarks in unfamiliar places,” and he could not read the names of streets as they passed, or the words “Emergency Room” at the hospital—though he at once recognized the picture of an ambulance over the door. He underwent a battery of tests, and they confirmed his suspicion: he had indeed had a stroke; he was told that it affected a limited area of the visual parts of the brain, on the left side. During the intake interview at the hospital, he later recalled, he was somewhat confused: “I was unable to pinpoint my exact relationship to Jacob . . . I forgot my name, my age, my address and a dozen other things.” Howard spent the next week in the neurology ward at Toronto’s Mount Sinai Hospital. During this time, it became clear that he had other visual problems besides his inability to read: he had a large blind spot in the upper-right quadrant of his visual field, and he had difficulties recognizing colors, faces, and everyday objects. These difficulties would come and go, he noted:
+
+* Familiar objects like apples and oranges suddenly looking strange, as unfamiliar as an exotic piece of Asian fruit. A rambutan. I would surprise myself with not knowing whether I was holding an orange or a grapefruit, a tomato or an apple. Usually, I could sort them out by sniffing or squeezing.*
+
+He often forgot things he once knew perfectly well, and became shy of conversation, he wrote, “lest I forget the name of the prime minister or who wrote ‘Hamlet.’ ”
+
+Yet he was surprised to find, as a nurse reminded him, that he could still write, even though he could not read; the medical term, she said, was “alexia sine agraphia.” Howard was incredulous: surely reading and writing went together; how could he lose one but not the other? The nurse suggested that he sign his name. He hesitated, but, once he started, the writing seemed to flow all by itself, and he followed his signature with two or three sentences. The act of writing seemed quite normal to him, effortless and automatic, like walking or talking. The nurse had no difficulty reading what he had written, but he himself could not read a single word. To his eyes, it was the same indecipherable “Serbo-Croatian” he had seen in the newspaper.
+
+## —
+
+We think of reading as a seamless and indivisible act, and as we read we attend to the meaning—and, perhaps, the beauty—of written language, unconscious of the many processes that make this possible. One has to encounter a condition such as Howard Engel’s to realize that reading is, in fact, dependent on a whole hierarchy or cascade of processes, which can break down at any point.
+
+In 1890, the German neurologist Heinrich Lissauer used the term “psychic blindness” to describe how some patients, after a stroke, became unable to recognize familiar objects visually. People with this condition, which Freud called “visual agnosia,” can have perfectly normal visual acuity, color perception, visual fields, and so on, and yet be totally unable to recognize or identify what they are seeing.
+
+Alexia is a specific form of visual agnosia, an inability to recognize written language. Since the French neurologist Paul Broca had identified a center for the “motor” images of words, as he called it, in 1861, and his German counterpart Carl Wernicke, some years later, identified one for the “auditory” images of words, it seemed logical to nineteenth-century neurologists to suppose that there might also be an area in the brain dedicated to the visual images of words—an area that, if damaged, would produce an inability to read, a “word blindness.”
+
+In 1887, the French neurologist Joseph Jules Dejerine was asked by an ophthalmologist colleague, Edmund Landolt, to see a highly intelligent, cultivated man, Oscar C., who had suddenly lost the ability to read. Landolt wrote a short but vividly evocative portrait of the patient, and Dejerine, in his own paper on the subject, included a long excerpt from it.
+
+They described how, in October of that year, Oscar C., a retired businessman, found himself unable to read. (He had had some brief attacks of numbness in his right leg on previous days, but had paid little attention to them.) Though reading was impossible, Oscar C. had no difficulty recognizing people and objects around him. Nevertheless, thinking that his eyes must be at fault, he consulted Landolt, who wrote:
+
+*Asked to read an eye chart, C is unable to name any letter. However, he claims to see them perfectly. He instinctively sketches the form of the letters with his hand, but he is nevertheless unable to say any of their names. When asked to write on a paper what he sees, he is able, with great difficulty, to recopy the letters, line by line, as if he were making a technical drawing, carefully examining each stroke in order to reassure himself that his drawing is exact. In spite of these efforts, he remains incapable of naming the letters. He compares the A to an easel, the Z to a serpent, and the P to a buckle. His incapacity to express himself frightens him. He thinks that he has “gone mad,” since he is well aware that the signs he cannot name are letters.*
+
+(I am quoting here and elsewhere from the translation provided by Israel Rosenfield in his excellent 1988 book, “The Invention of Memory.”)
+
+Like Howard Engel, Oscar C. was unable to read even the headlines of his morning paper, although he nonetheless recognized it, by its format, as his usual newspaper, Le Matin. And, like Howard, he could write perfectly well:
+
+* While reading is impossible, the patient . . . can write fluently and without any mistakes whatever material is dictated to him. But should he be interrupted in the middle of a phrase that he is writing . . . he becomes muddled and cannot start up again. Also, if he makes a mistake he can’t find it. . . . He can never reread what he has written. Even isolated letters do not make sense to him. He can only recognize them . . . by tracing the outlines of the letter with his hand. Therefore it is the sense of the muscular movement that gives rise to the letter name. . . .*
+
+*He is able to do simple addition, since he recognizes, with relative ease, numbers. However, he is very slow. He reads the numbers poorly, since he cannot recognize the value of several numbers at once. When shown the number 112, he says, “It is a 1, a 1, and a 2,” and only when he writes the number can he say “one hundred and twelve.”*
+
+There were some additional visual problems—objects appeared dimmer and a little blurred on the right side, and completely devoid of color. These problems, along with the specificity of Oscar C.’s alexia, indicated to Landolt that the underlying problem was not in the eyes but in the brain; this led him to refer his patient to Dejerine.
+
+Dejerine arranged to see Oscar C. twice weekly at his clinic in Paris. In a monumental 1892 paper, Dejerine summarized his neurological findings succinctly and then, in a much more leisurely style, provided a general picture of his patient’s life:
+
+* C spends his days taking long walks with his wife. He has no difficulty walking and every day he does his errands on foot from the Boulevard Montmartre to the Arc de Triomphe and back. He is aware of what is happening around him, stops in front of stores, looks at paintings in gallery windows, etc. Only posters and signs in shops remain meaningless collections of letters for him. He often becomes exasperated by this, and though he has been so afflicted for four years, he has never accepted the idea that he cannot read, while remaining able to write. . . . In spite of patient exercises and much effort, he has never relearned the sense of letters and written words, nor has he ever relearned how to read musical notes. *
+
+Despite this, Dejerine brought out, Oscar C., an excellent singer, could still learn new music by ear, and he continued to practice music with his wife every afternoon.
+
+When Oscar C. died, following a second stroke, Dejerine performed an autopsy and found two lesions in the brain: a recent one, which had probably caused his death, and an older one, which had destroyed part of the left occipital lobe and which he presumed was responsible for C.’s alexia. Dejerine felt that he had, in principle, demonstrated what he called a “visual center for letters” in the brain. Dejerine’s discovery of this area essential for reading would be confirmed over the next hundred years by scores of similar cases and autopsy reports of patients with alexia.
+
+By the nineteen-eighties, CT scanning and MRIs made it possible to visualize living brains with an immediacy and precision impossible in autopsy studies (where all sorts of secondary changes may blur the picture). Using this technology, Antonio and Hanna Damasio and, later, other researchers were again able to confirm Dejerine’s findings, and to correlate their alexic patients’ symptoms with highly specific brain lesions.
+
+(Sometimes alexia is transient, resulting from a temporary disturbance in the brain’s word-recognition systems. I had such an experience driving to an appointment one morning, when I suddenly found myself unable to read the names of streets; they seemed to be written in a strange archaic script—Phoenician, perhaps—that I could not decipher. My first thought was of some external change. New York City is a popular location for filming, and the “altered” street signs, I presumed, were part of some elaborate cinematic setup. Then a sort of shimmering or scintillation around the letters gave me a clue: my alexia, I realized, was part of a migraine aura.)
+
+With the development of functional brain imaging, it has became possible to visualize the activity of the brain in real time, as subjects perform various tasks. A pioneer PET-scan study in 1988 by Steven Petersen, Marcus Raichle, and their colleagues showed the different areas of the brain that are activated by reading words, listening to words, uttering words, and associating words. As Stanislas Dehaene wrote, in “Reading in the Brain” (2009), “For the first time in history, the areas responsible for language had been photographed in the living human brain.”
+
+Dehaene, a psychologist and neuroscientist, has specialized in studying the processes involved in visual perception, especially the recognition and representation of words, letters, and numbers. Using fMRI technology, which is much swifter and more sensitive than PET scanning, he and his colleagues have been able to focus even more closely on what he calls the visual word form area or, more informally, “the brain’s letterbox.”
+
+Dehaene’s studies (with Laurent Cohen and others) have shown how the visual word form area can be activated in a fraction of a second by a single written word, and how this initial, purely visual activation then spreads to other areas of the brain—especially the temporal lobes and the frontal lobes.
+
+Reading, of course, does not end with the recognition of visual word forms—it would be more accurate to say that it begins with this. Written language is meant to convey not only the sound of words but their meaning, and the visual word form area has intimate connections to the auditory and speech areas of the brain as well as to the intellectual and executive areas, and to the areas subserving memory and emotion. The visual word form area is a crucial node in a complex cerebral network of reciprocal connections—a network peculiar, it seems, to the human brain.
+
+## —
+
+In a world filled with traffic signs, printed labels, and directions on everything from a prescription bottle to the television, ordinary life is a continuing, daily struggle for anyone with alexia. But for a novelist like Howard the situation was even more desperate. How could he hope to go back to his previous work—to write elaborate narratives of crime and detection, full of plots and counterplots, with all the necessary corrections and revisions and redrafting that a writer must do? He would have to get others to read for him, or perhaps get one of the ingenious new software programs that would allow him to scan what he had written and hear it read back to him by a computer. Both steps would involve a radical shift, from the visuality of reading, the look of words on a page, to an essentially auditory mode of perception—going, in effect, from reading to listening and, perhaps, from writing to speech. Would this be desirable, or even possible?
+
+Precisely this question had forced itself on another writer who consulted me, ten years earlier. Charles Scribner, Jr., was also a man of letters; he presided over the publishing house established by his great-grandfather in the eighteen-forties. In his sixties, he developed a visual alexia—probably as a result of a degenerative process in the visual parts of the brain. It was a devastating problem for a man who had published the work of Hemingway and others, a man whose life was centered on reading and writing.
+
+Like Howard, Scribner preserved the power to write. For reading, he turned to audiobooks. But he was so deeply distressed by his inability to read what he himself had written that he decided to change to dictation, something he had never before tried. Luckily, this was successful—dictation worked so well that it allowed him to complete more than eighty newspaper columns and two book-length memoirs about his life in publishing. “Perhaps,” he wrote, “it’s another instance of a handicap honing a skill.” Apart from his family and close friends, no one seemed aware that he had accomplished all this by switching to an entirely new mode.
+
+One might have expected Howard, too, to turn to an auditory mode of “reading” and writing, but his course was very different. After his week at Mount Sinai Hospital, he was moved to a rehabilitation hospital, where he spent almost three months studying himself—what he could and could not do. When he was not trying to read a paper or a get-well card, he found, he could forget about his alexia:
+
+*The sky looked blue, the sun shone on the hospital windows, the world hadn’t suddenly become unfamiliar. My alexia existed only when I had my head buried in a book. Print brought it on and reminded me that, yes, there was a problem. Thus was born the temptation to simply avoid reading.*
+
+But this, he quickly realized, was unacceptable to him as a reader and a writer. Audiobooks might do for some, but not for him.
+
+## — 
+
+Two months after his stroke, still living at the rehab hospital, Howard had continuing difficulties recognizing places; he would get lost within the hospital three or four times a day and could not find his room until he finally learned to recognize its floor “by the way the light filled the hall just opposite the elevator.” He continued to have some object agnosia, too. Even when he returned home, after three months, he noted, “I kept finding cans of tuna in the dishwasher and jars of pencils in the freezer.” But, with reading, Howard noted some signs of improvement: “the words no longer looked like they were written in an unfamiliar alphabet.”
+
+There are two forms of alexia: a severe form, which prevents even individual letters from being recognized, and a milder form, in which letters can be recognized but only one by one, not simultaneously as words. Howard seemed to have moved, at this point, to the milder form—perhaps owing to a partial recovery of the tissues affected by his stroke, or to the brain’s use (or perhaps even construction) of alternative pathways.
+
+Given this neurological improvement, he was able, with his therapists, to explore new ways of trying to read. He would slowly and laboriously puzzle out words, letter by letter, forcing himself to decipher the names of streets and shops or the headlines of newspapers. He said:
+
+*Familiar words, including my own name, are unfamiliar blocks of type and have to be sounded out slowly. Each time a name recurs in an article or review, it hits me as unfamiliar on its last appearance as it does on the first.*
+
+Yet he persisted:
+
+*Even though the reading was slow and difficult—frustrating as hell at times—I was still a reader. The blast to my brain could not make me otherwise. Reading was hard-wired into me. I could no more stop reading than I could stop my heart. . . . The idea of being cut off from Shakespeare and company left me weak. My life had been built on reading everything in sight.*
+
+Howard’s reading grew somewhat easier with practice, though it might take him several seconds to make out a single word. “Words of different lengths,” he observed, “like cat, table and hippopotamus, are processed in my head at a different rate. Each added letter adds more weight to the load that I am trying to lift.” Scanning a page, reading in the usual sense, was still impossible, and “the whole process,” he wrote, “was exhausting beyond belief.”
+
+Sometimes, however, if he looked at a word, a couple of letters would suddenly jump out at him and be recognized—for example, the “bi” in the middle of his editor’s name, though the letters before and after this remained unintelligible. He wondered whether such “chunking” was the way he had learned to read as a child, perhaps the way we all learn to read, before we go on to perceive words, even sentences, as a whole. (Pairs and perhaps clusters of letters are particularly important in the construction and reading of words, and, whether reading is being learned for the first time or relearned after a stroke, there seems to be a natural progress from seeing single letters to seeing letter pairs or sequences. Dehaene and his colleagues suggest that there may be special “bigram” neurons in the brain devoted to this.)
+
+“I can make myself see that certain letter groupings are indeed familiar words,” Howard wrote to me, “but that comes only after I have stared at the page.”
+
+## —
+
+Whatever language a person is reading, the same area of inferotemporal cortex, the visual word form area, is activated. It makes relatively little difference whether the language uses an alphabet, like Greek or English, or ideograms, like Chinese. This has been confirmed by lesion studies such as Dejerine’s, and by imaging studies. And this idea is supported, too, by “positive” disorders—excesses or distortions of function produced by hyperactivity of the same area. The opposite of alexia, in this sense, is lexical or text hallucination, or phantom letters. People with disorders of the visual pathway (anywhere from the retina to the visual cortex) may be prone to visual hallucinations, and Dominic ffytche et al. estimate that about a quarter of these patients who hallucinate see “text, isolated words, individual letters, numbers, or musical note hallucinations.” Such lexical hallucinations, as ffytche et al. have found, are associated with conspicuous activation of the left occipitotemporal region, especially the visual word form area—the same area that, if damaged, produces alexia.
+
+So whether we are examining patients with alexia, patients with lexical hallucinations, or normal subjects, we are forced to the same conclusion: that in the dominant hemisphere (the language hemisphere) of every literate human being there exists a neuronal system potentially available for the recognition of letters and words. (It may also allow other forms of visual notation—mathematical or musical, for example.) This raises a deep problem: Why should all human beings have this built-in facility for reading when writing is a relatively recent cultural invention?
+
+Communication by the spoken word—and, therefore, its neural basis—has every mark of having evolved through the gradual processes of natural selection. The changing anatomy of the brain in prehistoric man has been worked out in some detail from endocranial casts and other fossil evidence, as have changes in the vocal tract. It is clear that the beginnings of speech go back hundreds of thousands of years. But this cannot be maintained in regard to reading, for writing emerged little more than five thousand years ago—far too recently to have occurred through evolution by natural selection. Though the visual word form area of the human brain appears exquisitely tuned to the act of reading, it could not have evolved specifically for this purpose.
+
+We might call this the Wallace problem, for Alfred Russel Wallace (who discovered natural selection independent of Darwin) became intensely concerned with the paradox of the human brain’s many potential abilities: lexical, mathematical, and so on—abilities that would be of little use in a primitive or a prehistoric society. While natural selection could explain the appearance of immediately useful abilities, only a divine creator, he felt, could explain the existence of potential powers that might become manifest only with the development of an advanced culture hundreds of thousands of years in the future.
+
+Darwin, understandably, was horrified by this idea, and wrote to Wallace, “I hope you have not murdered too completely your own and my child.” Darwin, for his part, had a much more open view of the process of natural selection and adaptation, foreseeing that biological structures might find uses very different from those for which they had originally evolved. (Stephen Jay Gould and Elisabeth Vrba called this sort of redeployment an “exaptation,” rather than a direct adaptation.)
+
+How, then, did the visual word form area of the human brain arise? Does it exist in the brains of illiterate people? Does it have a precursor in the brains of other primates?
+
+We are all faced with a world of sights and sounds and other stimuli, and our survival depends on making a rapid and accurate appraisal of these. Making sense of the world around us must be based on some sort of system, some swift and sure way of parsing the environment. Although seeing objects, defining them visually, seems to be instantaneous and innate, it represents a great perceptual achievement, one that requires a whole hierarchy of functions. We do not see objects as such; we see shapes, surfaces, contours, and boundaries, presenting themselves in different illumination or contexts, changing perspective with their movement or ours. From this complex, shifting visual chaos, we have to extract invariants that allow us to infer or hypothesize objecthood. It would be uneconomical to suppose that there are individual representations, or engrams, for each of the billions of objects around us. The power of combination must be called on; one needs a finite set or vocabulary of shapes that can be combined in an infinite number of ways, much as the twenty-six letters of the alphabet can be assembled (within certain rules and constraints) into as many words or sentences as a language ever needs.
+
+There may be some objects that are recognized at birth, or soon after, like faces. But beyond this the world of objects must be learned through experience and activity: looking, touching, handling, correlating the feel of objects with their appearance. Visual object recognition depends on the millions of neurons in the inferotemporal cortex, and neuronal function here is very plastic, open and highly responsive to experience and training, to education. Inferotemporal neurons evolved for general visual recognition, but they may be recruited for other purposes—most notably, reading.
+
+Such a redeployment of neurons is facilitated by the fact that all (natural) writing systems seem to share certain topological features with the environment, features that our brains have evolved to decode. Mark Changizi and his colleagues at Caltech examined more than a hundred ancient and modern writing systems, including alphabetic systems and Chinese ideograms, from a computational point of view. They have shown that all of them, while geometrically very different, share certain basic topological similarities. (This visual signature is not evident in artificial writing systems, such as shorthand, which are designed to emphasize speed more than visual recognition.) Changizi et al. have found similar topological invariants in a range of natural settings, and this has led them to hypothesize that the shapes of letters “have been selected to resemble the conglomerations of contours found in natural scenes, thereby tapping into our already-existing object recognition mechanisms.”
+
+Writing, a cultural tool, has evolved to make use of the inferotemporal neurons’ preference for certain shapes. “Letter shape,” Dehaene writes, “is not an arbitrary cultural choice. The brain constrains the design of an efficient writing system so severely that there is little room for cultural relativism. Our primate brain only accepts a limited set of written shapes.”
+
+This is an elegant solution to the Wallace problem—indeed, it shows that there is no problem. The origin of writing and reading cannot be understood as a direct evolutionary adaptation. It is dependent on the plasticity of the brain, and on the fact that, even within the small span of a human lifetime, experience—experiential selection—is as powerful an agent of change as natural selection. Natural selection, for Darwin, did not forbid cultural and individual developments on a timescale hundreds of thousands of times faster than evolutionary development. On the contrary, it prepared the ground for them. We are literate not by virtue of a divine intervention but through a cultural invention and a cultural selection that make a brilliant and creative new use of a preëxisting neural proclivity.
+
+## —
+
+While Howard was still in the rehab hospital, one of his therapists suggested that he keep a “memory book,” to remind himself of appointments and to record his thoughts. As a lifelong keeper of journals, Howard was delighted by this idea. His new memory book proved to be an invaluable aid not only in stabilizing his still erratic memory but in reinforcing his identity as a writer:
+
+*I knew I could no longer rely on the “sticking plaster” of memory. I could forget a word in the second part of what I was saying, even though I had already used the word a moment earlier. . . . I learned to write things down in the “memory book” [the moment I thought of them]. . . . The memory book gave a lift to my sense of being in the driver’s seat of my life. [It] became my constant companion: part diary, part appointment book, part commonplace book. Hospitals, to a degree … breed a passive spirit; the memory book returned a piece of myself to me.*
+
+Keeping the memory book invited him, forced him, to write every day—not only at the level of forming legible words and sentences but at a much deeper, creative level. His journal of hospital life, with its various routines and characters, began to stir his writer’s imagination.
+
+Occasionally, with unusual words or proper names, Howard might be unsure of their spelling—he could not “see” them in his mind’s eye, imagine them, any more than he could perceive them when they were printed before him. Lacking this internal imagery, he had to employ other strategies for spelling. The simplest of these, he found, was to write a word in the air with his finger, letting a motor act take the place of a sensory one.
+
+Increasingly and often unconsciously, Howard started to move his hands as he read, tracing the outlines of words and sentences still unintelligible to his eyes. And, most remarkable, his tongue, too, began to move as he read, tracing the shapes of letters on his teeth or on the roof of his mouth. This enabled him to read considerably faster (though it still might take him a month or more to read a book he could previously have read in an evening). Thus, by an extraordinary, metamodal, sensory-motor alchemy, Howard was replacing reading by a sort of writing. He was, in effect, reading with his tongue. (Recently, while eating and talking, Howard bit the tip of his tongue by accident, and for a few days it was swollen and painful to move. He said, “It rendered me, for a day or so, illiterate once again.”)
+
+## —
+
+More than three months after his stroke, Howard returned from rehab to a home he did not entirely recognize:
+
+*The house looked strange and familiar at the same time. . . . It was as though a movie set had been assembled from sketches of the real house and its rooms. Most peculiar was my office. I looked at my computer with a strange feeling. My whole office, where I had written several of my books, resembled a diorama in a museum. . . . On scribbled stick-on notes, my own handwriting looked strange, unfamiliar.*
+
+Would he ever be able to use this alien computer—once the main tool of his trade—again? With his son’s help, and to his own surprise, he started to test out his old computer skills and soon felt them coming back. But writing something creative was another matter. And reading, even reading his own erratic handwriting, was still agonizingly slow and difficult. Furthermore, as he later wrote:
+
+*I had been out of the world for months. I could no longer keep things straight in my head. What business did I have imagining that I might go back to my old desk and begin again? I was clearly unfit for fiction. I turned off the computer and took a long walk.*
+
+Nonetheless, Howard had been, in a sense, staying in practice, writing every day, if only in his memory book. At first, he wrote:
+
+*I had no thoughts of writing a book. That was not only well beyond my abilities, it was also beyond my imagination. But without my knowing it, another part of my brain was beginning to plot out a story. Images began popping into my head. Plots and plot twists began haunting my imagination. While I [had been] lying in my hospital bed . . . I was hard at work inventing story and characters and situations for the book I still didn’t know I was writing.*
+
+He decided to write—if he could—a new novel, following his mother’s old advice:
+
+*Write about what you know. . . . What I knew about now was my illness. I knew the hospital routines and the people around me. I could do a book that described what it was like to be out of things, flat on my back for a time with nurses and doctors ordering and reordering my days.*
+
+He would reintroduce his alter ego, the detective Benny Cooperman, but it would be a Cooperman transformed: the great detective, waking in a hospital bed, finds himself not only alexic but amnesiac as well. His powers of inference, however, are intact, and enable him to stitch together disparate clues, to figure out how he landed in the hospital and what happened in the mysterious few days he can no longer remember.
+
+Howard moved into high gear, typing for hours each day on his computer. Within a few weeks, his imagination and creative flow enabled him to produce a first draft. The problem now was how to correct and revise the draft, given his problems with short-term memory and his inability to read in the normal way. He employed many devices using his word processor—indenting certain paragraphs, marking passages with different font sizes—and, after he had done as much as he could by himself, he got his editor to read the entire book aloud to him, so that he could engrave its over-all structure in his memory and reorganize it in his mind. This painstaking process took many months of hard labor, but his abilities to remember and revise mentally steadily increased with practice.
+
+His new novel, which he called “Memory Book,” was published in 2005, and was followed, in fairly rapid succession, by another Benny Cooperman novel and, in 2007, a memoir, “The Man Who Forgot How to Read” (from which I have been quoting). Howard Engel is still alexic, but he has found a way to remain a man of letters. “The problems never went away,” he writes, “but I became cleverer at solving them.” That he was able to do so is a testament to the adaptability of the human brain.
+
+----
+
+Selected-image: 
